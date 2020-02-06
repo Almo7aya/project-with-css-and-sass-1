@@ -1,0 +1,24 @@
+{
+  "name": "notorius",
+  "version": "1.0.0",
+  "description": "landing page ",
+  "main": "index.js",
+  "scripts": {
+    "sass:compile": "node-sass sass/main.scss css/style.css",
+    "sass:watch": "node-sass scss/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahAlafif/project-with-css-and-sass.git"
+  },
+  "author": "sara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahAlafif/project-with-css-and-sass/issues"
+  },
+  "homepage": "https://github.com/SarahAlafif/project-with-css-and-sass#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^4.13.1"
+  }
+}
