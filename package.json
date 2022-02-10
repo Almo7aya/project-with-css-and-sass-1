@@ -19,6 +19,6 @@
   "homepage": "https://github.com/SarahAlafif/project-with-css-and-sass#readme",
   "dependencies": {
     "live-server": "^1.2.1",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
